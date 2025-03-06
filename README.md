@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Henrick</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | Especialista em Java & Angular</b>
+  <b>Desenvolvedor Full Stack</b>
 </p>
 
 <p align="center">
