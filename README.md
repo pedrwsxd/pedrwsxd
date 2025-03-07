@@ -78,13 +78,4 @@ Projeto desenvolvido em equipe para um **foodtruck**, criando um sistema para ge
 
 ---
 
-## 📩 Contato
-
-📌 **Portfólio:** [pedrohenrick.com.br](https://www.pedrohenrick.com.br/)  
-📧 **E-mail:** pedrwsxd@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pedrohenrick](https://www.linkedin.com/in/pedro-henrick-324aa32b1/)  
-🐙 **GitHub:** [github.com/pedrwsxd](https://github.com/pedrwsxd)  
-
----
-
 🔹 *Aberto a colaborações, freelas e novas oportunidades profissionais!*
