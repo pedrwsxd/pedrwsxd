@@ -1,81 +1,21 @@
-<h1 align="center">Pedro Henrick</h1>
+# 💫 About Me:
+<br><br>💻 Atualmente estou trabalhando em:<br>Aplicações web Full Stack usando Next.js, Express, Prisma e AWS .<br><br>🤝 Estou procurando colaborar em:<br>Projetos de código aberto e soluções inovadoras de IA + integração Web .<br><br>🧩 Estou procurando ajuda com:<br>Otimizar o desempenho do backend e a arquitetura de API escalável .<br><br>🌱 Atualmente estou aprendendo: DevOps<br>avançado , Docker e estratégias de implantação na AWS e Vercel.<br><br>💬 Pergunte-me sobre:<br>​​JavaScript, Node.js, React, Prisma, Tailwind e como se preparar para competições de tecnologia.<br><br>⚡ Curiosidade:<br>Representei o Senac RJ no Concurso Nacional de Aplicações Web & Mobile 2025 🇧🇷.
 
-<p align="center">
-  <b>Desenvolvedor Full Stack</b>
-</p>
 
-<p align="center">
-  <a href="https://www.pedrohenrick.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-henrick-324aa32b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:pedrohenrick@example.com">
-    <img src="https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedro_barroco_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrick-324aa32b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrohgbarroco@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pedrwsxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pedrwsxd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrwsxd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 Sobre mim
-
-Sou um **desenvolvedor full stack** com foco em soluções escaláveis e alto desempenho. Possuo experiência em **Java (Spring Boot), Angular e AWS**, além de integração com **inteligência artificial e automação de processos**. Tenho um forte compromisso com **boas práticas, segurança e experiência do usuário**. 
-
-Atualmente, trabalho no desenvolvimento de **soluções inovadoras** que abrangem desde assistentes virtuais até plataformas de gestão documental.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pedrwsxd&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projetos em Destaque
-
-### 🔹 [SAM IA](https://www.pedrohenrick.com.br/)
-> **Tecnologias:** Java, Spring Boot, DeepSeek, WhatsApp API  
-Desenvolvi a **SAM IA**, uma assistente virtual baseada em inteligência artificial, capaz de interagir via **WhatsApp** e fornecer respostas dinâmicas. O backend utiliza **Spring Boot** e se integra à **DeepSeek**, garantindo inteligência contextual e eficiência nas respostas.
-
-### 🔹 [Guarda Doc](https://www.pedrohenrick.com.br/)
-> **Tecnologias:** Java, Spring Boot, Angular, AWS S3  
-Sistema seguro para armazenamento de **documentos pessoais**, voltado para facilitar a vida em casos de emergência. Utiliza **AWS S3** para armazenar arquivos de forma segura, garantindo acessibilidade e organização.
-
-### 🔹 [Projeto Integrador - FoodTruck](https://www.pedrohenrick.com.br/)
-> **Tecnologias:** Java, Spring Boot, Angular  
-Projeto desenvolvido em equipe para um **foodtruck**, criando um sistema para gestão de pedidos e um site responsivo. A solução incluiu uma interface amigável e um backend robusto para otimizar a experiência do usuário e do administrador.
-
----
-
-## 🔧 Habilidades Técnicas
-
-### 🚀 **Linguagens e Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🎨 **Front-end e Design**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ☁️ **Cloud e Banco de Dados**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🤖 **Inteligência Artificial e Integrações**
-![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedrwsxd&show_icons=true&theme=react" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrwsxd&theme=react" />
-</p>
-
----
-
-🔹 *Aberto a colaborações, freelas e novas oportunidades profissionais!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
